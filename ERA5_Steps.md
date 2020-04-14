@@ -1,4 +1,4 @@
-# Downloading ERA5 data using CDS API client and Python
+## Downloading ERA5 data using CDS API client and Python
 
 **Step 1**: Register for a  C3S climate data store CDS and create an account at [CDS Website](https://cds.climate.copernicus.eu/#!/home)
 
