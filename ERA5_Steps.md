@@ -22,7 +22,7 @@ Install CDS API client by typing
 pip install cdsapi 
 ``` 
 
-**Step 6**: Copy and paste the automated code generated in the next line and the data will be directly downloaded in your directory with prompting something like below
+**Step 6**: Copy and paste the automated code generated in the next line and the data will be directly downloaded in your C: directory with prompting something like below
 
 ```
 Result(content_length=4153200,content_type=application/x-grib,location=http://136.156.132.210/cache-compute-0005/cache/data3/adaptor.mars.internal-1586819768.1984632-7180-23-af3bed62-4c3b-4ed7-b657-21599d44a0b6.grib)
